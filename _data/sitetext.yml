@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Final Website!!
-    text: It's Nice To Meet You
+    text: You've completed all the missions.
     button: Click Me!
     buttonlink: "https://drive.google.com/file/d/1NSkhZsJ3uE9O0Kn_vqqnDVOEVo03ym4z/view?usp=sharing"
 
